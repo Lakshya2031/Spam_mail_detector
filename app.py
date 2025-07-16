@@ -9,7 +9,7 @@ Original file is located at
 
 
 
-import Streamlit as st
+import streamlit as st
 import pickle
 
 # Load model and feature extractor
